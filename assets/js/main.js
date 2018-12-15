@@ -315,7 +315,7 @@
             });
 
             $.ajax({
-                url: "https://formspree.io/gsafcikphotography@gmail.com",
+                url: "https://formcarry.com/s/vWBIzgXSHWT",
                 method: "POST",
                 data: email_data,
                 dataType: "json"
